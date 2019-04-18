@@ -1,4 +1,4 @@
-ALL_OUT = stopwatch logger
+ALL_OUT = stopwatch logger thread
 ifdef DEBUG
 MY_POCO_LIB_PATH = -L$(HOME)/Work/PocoSource/poco-1.9.0/lib/Darwin/x86_64
 else
